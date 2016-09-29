@@ -10,7 +10,7 @@ int main(){
 	scanf("%d",&b);
 	
 	c= a+b;
-	printf("c = %d",c);
+	printf("Soma = %d",c);
 	
 	return 0;
 }

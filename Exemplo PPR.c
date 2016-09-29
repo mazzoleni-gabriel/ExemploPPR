@@ -4,6 +4,7 @@
 int main(){
 	int a,b,c;
 	
+	printf("Digite o valor de a: ");
 	scanf("%d",&a);
 	scanf("%d",&b);
 	

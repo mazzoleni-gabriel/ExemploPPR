@@ -9,8 +9,8 @@ int main(){
 	printf("Digite o valor de b: ");
 	scanf("%d",&b);
 	
-	c= a+b;
-	printf("c = %d",c);
+	c= a*b;
+	printf("Produto = %d",c);
 	
 	return 0;
 }
